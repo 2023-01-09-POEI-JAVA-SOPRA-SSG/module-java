@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point7_Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point8_ConditionAlternativesMultiples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point7_Conditions">
-    <configuration name="Point1_DeclarationVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point1_DeclarationVariables" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Point8_ConditionAlternativesMultiples">
     <configuration name="Point2_Affichage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point2_Affichage" />
       <module name="Java" />
@@ -71,13 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point8_ConditionAlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point8_ConditionAlternativesMultiples" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point8_ConditionAlternativesMultiples" />
         <item itemvalue="Application.Point7_Conditions" />
         <item itemvalue="Application.Point6_FonctionMath" />
         <item itemvalue="Application.Point5_SaisieClavier" />
         <item itemvalue="Application.Point2_Affichage" />
-        <item itemvalue="Application.Point1_DeclarationVariables" />
       </list>
     </recent_temporary>
   </component>
