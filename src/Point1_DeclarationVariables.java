@@ -18,6 +18,7 @@ public class Point1_DeclarationVariables {
         boolean laTerreEstRonde=true;//false
         boolean estMajeur=age>=18;
 
-
+        //5.
+        final int AGE_DE_RETRAITE=40;
     }
 }
