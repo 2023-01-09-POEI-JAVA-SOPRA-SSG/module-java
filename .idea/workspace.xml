@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point3_Affectation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point5_SaisieClavier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point2_Affichage">
+  <component name="RunManager" selected="Application.Point5_SaisieClavier">
     <configuration name="Point1_DeclarationVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point1_DeclarationVariables" />
       <module name="Java" />
@@ -50,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Point5_SaisieClavier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point5_SaisieClavier" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point5_SaisieClavier" />
         <item itemvalue="Application.Point2_Affichage" />
         <item itemvalue="Application.Point1_DeclarationVariables" />
       </list>
