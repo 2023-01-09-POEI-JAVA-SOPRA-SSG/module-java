@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point10_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/lundi_16/E1_Polynome2ndDegre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/lundi_16/E2_SigneNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/lundi_16/E3_Equation2ndDegre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/lundi_16/E4_Mois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/lundi_16/E5_Arithmetique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,40 +37,65 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point9_OperateursLogiques">
-    <configuration name="Point5_SaisieClavier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point5_SaisieClavier" />
+  <component name="RunManager" selected="Application.E3_Equation2ndDegre">
+    <configuration name="E1_Polynome2ndDegre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction_tps.lundi_16.E1_Polynome2ndDegre" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="correction_tps.lundi_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point6_FonctionMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point6_FonctionMath" />
+    <configuration name="E2_SigneNombre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction_tps.lundi_16.E2_SigneNombre" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="correction_tps.lundi_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point7_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point7_Conditions" />
+    <configuration name="E3_Equation2ndDegre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction_tps.lundi_16.E3_Equation2ndDegre" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="correction_tps.lundi_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point8_ConditionAlternativesMultiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point8_ConditionAlternativesMultiples" />
+    <configuration name="E4_Mois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction_tps.lundi_16.E4_Mois" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="correction_tps.lundi_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point9_OperateursLogiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point9_OperateursLogiques" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point9_OperateursLogiques" />
-        <item itemvalue="Application.Point8_ConditionAlternativesMultiples" />
-        <item itemvalue="Application.Point7_Conditions" />
-        <item itemvalue="Application.Point6_FonctionMath" />
-        <item itemvalue="Application.Point5_SaisieClavier" />
+        <item itemvalue="Application.E3_Equation2ndDegre" />
+        <item itemvalue="Application.E4_Mois" />
+        <item itemvalue="Application.E2_SigneNombre" />
+        <item itemvalue="Application.E1_Polynome2ndDegre" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -102,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
