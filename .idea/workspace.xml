@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point11_ExoFacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point11_ExoTableMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point12_BoucleWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point13_Tableaux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePinV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePinV3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point14_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point15_BoucleForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp2_NoteCours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp3_FrequenceChiffre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp4_RechercheTableau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp5_SommeMultiple3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tp1_CodePinV3">
-    <configuration name="Buffer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="correction_tps.prp.Buffer2" />
+  <component name="RunManager" selected="Application.Point14_HashMap">
+    <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="correction_tps.mardi_17.Buffer" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="correction_tps.prp.*" />
+          <option name="PATTERN" value="correction_tps.mardi_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,34 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1_CodePinV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="correction_tps.mardi_17.Tp1_CodePinV2" />
+    <configuration name="Point14_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point14_HashMap" />
       <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="correction_tps.mardi_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1_CodePinV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Point15_BoucleForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point15_BoucleForeach" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="correction_tps.mardi_17.Tp1_CodePinV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="correction_tps.mardi_17.Tp1_CodePinV3" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="correction_tps.mardi_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="correction_tps.mardi_17.Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="correction_tps.mardi_17.Buffer" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tp1_CodePinV3" />
+        <item itemvalue="Application.Point14_HashMap" />
+        <item itemvalue="Application.Point15_BoucleForeach" />
+        <item itemvalue="Application.correction_tps.mardi_17.Tp1_CodePinV3" />
         <item itemvalue="Application.Point13_Tableaux" />
         <item itemvalue="Application.correction_tps.mardi_17.Buffer" />
-        <item itemvalue="Application.Tp1_CodePinV2" />
-        <item itemvalue="Application.Buffer2" />
       </list>
     </recent_temporary>
   </component>
