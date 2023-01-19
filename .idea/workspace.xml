@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point19_TableauxEtRerefences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point20_MethodesStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point21_TableauxDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point22_NoteCoursTableauxDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesO1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp2_ReverseIntV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp2_ReverseIntV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp3_Captialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublonsV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point23_Set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublonsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublonsV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Point22_NoteCoursTableauxDynamiques">
+  <component name="RunManager" selected="Application.Point23_Set">
     <configuration name="Point21_TableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Point21_TableauxDynamiques" />
       <module name="Java" />
@@ -62,15 +52,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="correction_tps.prp.Test" />
+    <configuration name="Point23_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point23_Set" />
       <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="correction_tps.prp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point23_Set" />
         <item itemvalue="Application.Point22_NoteCoursTableauxDynamiques" />
         <item itemvalue="Application.Point21_TableauxDynamiques" />
         <item itemvalue="Application.Tp3_Captialize" />
         <item itemvalue="Application.Tp4_RemoveDoublons" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

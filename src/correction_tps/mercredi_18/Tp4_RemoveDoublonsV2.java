@@ -10,7 +10,7 @@ public class Tp4_RemoveDoublonsV2 {
                 phrase.replaceAll("[^A-Za-z]", "").toLowerCase();
         String[] phraseCharArray=phraseWithoutSpecialChars.split("");
 
-        System.out.println(Arrays.toString(phraseCharArray));
+//        System.out.println(Arrays.toString(phraseCharArray));
 
         HashSet<String> stringHashSet = new HashSet<>(Arrays.asList(phraseCharArray));
         System.out.println(stringHashSet);
