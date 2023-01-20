@@ -2,10 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Point24_Fonctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point25_MainFonction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point26_SimplifierScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point10_SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point10_SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point11_ExoFacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point11_ExoFacto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point11_ExoTableMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point11_ExoTableMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point11_For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point11_For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point12_BoucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point12_BoucleWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point13_Tableaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point13_Tableaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point14_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point14_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point15_BoucleForeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point15_BoucleForeach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point16_TableauA2Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point16_TableauA2Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point17_Tableau2ADimensionsSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point17_Tableau2ADimensionsSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point18_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point18_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point19_TableauxEtRerefences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point19_TableauxEtRerefences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point1_DeclarationVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point1_DeclarationVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point20_MethodesStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point20_MethodesStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point21_TableauxDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point21_TableauxDynamiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point22_NoteCoursTableauxDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point22_NoteCoursTableauxDynamiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point23_Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point23_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point24_Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point24_Fonctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point25_MainFonction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point25_MainFonction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point2_Affichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point2_Affichage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point3_Affectation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point3_Affectation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point5_SaisieClavier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point5_SaisieClavier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point6_FonctionMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point6_FonctionMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point7_Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point7_Conditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point8_ConditionAlternativesMultiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point8_ConditionAlternativesMultiples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point9_OperateursLogiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/Point9_OperateursLogiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/lundi_16/E1_Polynome2ndDegre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/lundi_16/E1_Polynome2ndDegre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/lundi_16/E2_SigneNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/lundi_16/E2_SigneNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/lundi_16/E3_Equation2ndDegre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/lundi_16/E3_Equation2ndDegre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/lundi_16/E4_Mois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/lundi_16/E4_Mois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/lundi_16/E5_Arithmetique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/lundi_16/E5_Arithmetique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp1_CodePin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePinV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp1_CodePinV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp1_CodePinV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp1_CodePinV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp2_NoteCours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp2_NoteCours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp3_FrequenceChiffre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp3_FrequenceChiffre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp4_RechercheTableau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp4_RechercheTableau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mardi_17/Tp5_SommeMultiple3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mardi_17/Tp5_SommeMultiple3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_OccurencesLettres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp1_OccurencesLettres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp1_SommeDiagonalesO1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp1_SommeDiagonalesOn2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp2_ReverseIntV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp2_ReverseIntV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp2_ReverseIntV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp2_ReverseIntV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp3_Captialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp3_Captialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp4_RemoveDoublons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correction_tps/mercredi_18/Tp4_RemoveDoublonsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/mercredi_18/Tp4_RemoveDoublonsV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,56 +81,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
-  <component name="RunManager" selected="Application.Point25_MainFonction">
-    <configuration name="Point21_TableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point21_TableauxDynamiques" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fondamentaux.correction_tps.Point25_MainFonction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fondamentaux.correction_tps.Point25_MainFonction" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point22_NoteCoursTableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point22_NoteCoursTableauxDynamiques" />
+    <configuration name="fondamentaux.correction_tps.Point26_SimplifierScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fondamentaux.correction_tps.Point26_SimplifierScanner" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point23_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point23_Set" />
+    <configuration name="fondamentaux.correction_tps.prp.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fondamentaux.correction_tps.prp.Test" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fondamentaux.correction_tps.prp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point24_Fonctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point24_Fonctions" />
+    <configuration name="fondamentaux.correction_tps.prp.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fondamentaux.correction_tps.prp.Test2" />
       <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Point25_MainFonction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Point25_MainFonction" />
-      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fondamentaux.correction_tps.prp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Point25_MainFonction" />
-        <item itemvalue="Application.Point24_Fonctions" />
-        <item itemvalue="Application.Point23_Set" />
-        <item itemvalue="Application.Point22_NoteCoursTableauxDynamiques" />
-        <item itemvalue="Application.Point21_TableauxDynamiques" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.fondamentaux.correction_tps.Point26_SimplifierScanner" />
+        <item itemvalue="Application.fondamentaux.correction_tps.prp.Test2" />
+        <item itemvalue="Application.fondamentaux.correction_tps.prp.Test" />
+        <item itemvalue="Application.fondamentaux.correction_tps.Point25_MainFonction" />
       </list>
     </recent_temporary>
   </component>
