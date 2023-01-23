@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/CalculRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/vendredi_20_janvier/Tp1_Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp1_ListeLangages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp1_ListeLangagesV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp2_TauxEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp3_2dArrayRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp4_Directions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/Avion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Avion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Main.java" afterDir="false" />
@@ -33,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.Main" />
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ExceptionHandling" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -58,9 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fondamentaux.correction_tps.Point25_MainFonction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fondamentaux.correction_tps.Point25_MainFonction" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.Main" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,10 +110,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="Application.fondamentaux.correction_tps.Point26_SimplifierScanner" />
         <item itemvalue="Application.fondamentaux.correction_tps.prp.Test2" />
         <item itemvalue="Application.fondamentaux.correction_tps.prp.Test" />
-        <item itemvalue="Application.fondamentaux.correction_tps.Point25_MainFonction" />
       </list>
     </recent_temporary>
   </component>
