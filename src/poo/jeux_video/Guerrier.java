@@ -26,4 +26,9 @@ public class Guerrier extends Personnage {
     public void rencontrer(){
         System.out.println("Je suis un guerrier");
     }
+
+    public String toString(){
+        return super.toString()+String.format("\nArme : %s",this.arme);
+    }
+
 }

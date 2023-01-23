@@ -35,4 +35,8 @@ public abstract class Personnage {
     }
 
     public abstract void rencontrer();
+
+    public String toString(){
+        return String.format("Nom : %s\nDurée : %d",this.nom,this.dureeDeVie);
+    }
 }
