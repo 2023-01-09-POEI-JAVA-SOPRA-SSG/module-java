@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/jeux_video/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/jeux_video/Voleur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/jeux_video/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/jeux_video/Guerrier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/jeux_video/JeuxVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/jeux_video/JeuxVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/jeux_video/Magicien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/jeux_video/Magicien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/jeux_video/Sorcier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/jeux_video/Sorcier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/jeux_video/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/jeux_video/Personnage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,5 +5,8 @@ public class JeuxVideo {
         var moi=new Guerrier("Tonton cricri","Kalashnikov AK-47",100);
         var geoffrey=new Magicien("Geoffrey",90,"Baguette de Geoffrey");
         var marina=new Sorcier("Maria",90,"Baguette de Marin","Baton Mathématique");
+//        var jean=new Personnage("Jean Zozor",56);
+
+        marina.rencontrer();
     }
 }

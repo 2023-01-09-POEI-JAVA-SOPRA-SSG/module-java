@@ -2,7 +2,7 @@ package poo.jeux_video;
 
 import java.util.InputMismatchException;
 
-public class Personnage {
+public abstract class Personnage {
     private String nom;
     private int dureeDeVie;
 
@@ -33,4 +33,6 @@ public class Personnage {
         }
         this.dureeDeVie = dureeDeVie;
     }
+
+    public abstract void rencontrer();
 }
