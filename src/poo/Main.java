@@ -2,6 +2,7 @@ package poo;
 
 import poo.vendredi_20_janvier.Tp1_Rectangle;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
@@ -14,14 +15,27 @@ public class Main {
         System.out.printf("Marque : %s\nModèle : %s\nNombre sièges : %d",airbus.getMarque(),
                 airbus.getModele(),airbus.getNombreSieges());
 
-        airbus.setMarque("Air bus");
-        airbus.setModele("");
-        airbus.setNombreSieges(-45);
 
-        System.out.println("\nAffichage après l'appel des setters");
-        System.out.println("===================================");
-        System.out.printf("Marque : %s\nModèle : %s\nNombre sièges : %d",airbus.getMarque(),
-                airbus.getModele(),airbus.getNombreSieges());
+        try{
+            airbus.setMarque("Boeing");
+            airbus.setModele("ABC");
+            airbus.setNombreSieges(-45);
+
+            System.out.println("\nAffichage après l'appel des setters");
+            System.out.println("===================================");
+            System.out.printf("Marque : %s\nModèle : %s\nNombre sièges : %d",airbus.getMarque(),
+                    airbus.getModele(),airbus.getNombreSieges());
+        }catch (InputMismatchException e){
+            System.out.println("\nErreur => "+e);
+        }catch (ArithmeticException e){
+
+        }catch (ArrayIndexOutOfBoundsException e){
+
+        }finally {
+
+        }
+
+
 //        airbus.setMarque("Airbus");
 //        airbus.setModele("A320");
 //        airbus.setNombreSieges(150);

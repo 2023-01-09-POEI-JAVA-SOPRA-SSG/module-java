@@ -10,6 +10,7 @@ public class ExceptionHandling {
         }
         return a/b;
     }
+
     public static void main(String[] args) {
 //        System.out.print("Entrez votre age: ");
 //        try {
@@ -24,5 +25,8 @@ public class ExceptionHandling {
        }catch (ArithmeticException e){
            System.out.println("Erreur -> "+e);
        }
+
+
+
     }
 }
