@@ -1,5 +1,7 @@
 package poo;
 
+import java.util.InputMismatchException;
+
 public class Avion {
     private String marque;
     private String modele;
@@ -40,21 +42,43 @@ public class Avion {
         return nombreSieges;
     }
     // Manipulateurs
-    public void setMarque(String marque){
-        if(marque.length()!=0){
-            this.marque=marque;
+    public void setMarque(String marque)throws InputMismatchException{
+//        Méthode 1 : Sans gestion des exceptions
+//        if(marque.length()!=0){
+//            this.marque=marque;
+//        }
+//
+//        Méthode 2 : Avec la gestion des exceptions
+        if(marque.length()==0){
+            throw new InputMismatchException("La marque ne doit pas être vide.");
         }
+        this.marque=marque;
     }
 
-    public void setModele(String modele){
-        if(modele.length()!=0){
-            this.modele=modele;
+    public void setModele(String modele)throws InputMismatchException{
+        //        Méthode 1 : Sans gestion des exceptions
+//        if(modele.length()!=0){
+//            this.modele=modele;
+//        }
+        //        Méthode 2 : Avec la gestion des exceptions
+        if(modele.length()==0){
+            throw new InputMismatchException("Le modèle ne doit pas être vide.");
         }
+        this.modele=modele;
     }
 
-    public void setNombreSieges(int nombreSieges){
-        if(nombreSieges>0){
-            this.nombreSieges=nombreSieges;
+    public void setNombreSieges(int nombreSieges) throws InputMismatchException{
+//        Méthode 1 : Sans gestion des exceptions
+//        if(nombreSieges>0){
+//            this.nombreSieges=nombreSieges;
+//        }
+
+//        Méthode 2 : Gestion des exceptions
+        if(nombreSieges<=0){
+            throw new InputMismatchException("Erreur:Le nombre de sièges doit toujouts " +
+                    "être positif");
+//            System.out.println("Erreur:Le nombre de sièges doit toujours être positif");
         }
+        this.nombreSieges=nombreSieges;
     }
 }

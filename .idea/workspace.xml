@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e084996a-8c85-4a7d-b4af-8d60c2959b61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp1_ListeLangages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp1_ListeLangagesV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp2_TauxEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp3_2dArrayRepetitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fondamentaux/correction_tps/jeudi_19/Tp4_Directions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poo/Avion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Avion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
