@@ -30,5 +30,4 @@ public class Guerrier extends Personnage {
     public String toString(){
         return super.toString()+String.format("\nArme : %s",this.arme);
     }
-
 }

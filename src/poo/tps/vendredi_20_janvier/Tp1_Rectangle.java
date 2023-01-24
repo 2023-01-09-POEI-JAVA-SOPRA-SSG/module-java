@@ -1,4 +1,4 @@
-package poo.vendredi_20_janvier;
+package poo.tps.vendredi_20_janvier;
 
 public class Tp1_Rectangle {
     private double longueur;

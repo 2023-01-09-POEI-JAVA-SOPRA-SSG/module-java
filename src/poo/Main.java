@@ -1,9 +1,6 @@
 package poo;
 
-import poo.vendredi_20_janvier.Tp1_Rectangle;
-
 import java.util.InputMismatchException;
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
